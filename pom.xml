@@ -47,7 +47,8 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>${springframework.version}</version>
+            <version>5.0.5.RELEASE</version>
+            <type>jar</type>
         </dependency>
         <!-- Spring Security -->
         <dependency>
